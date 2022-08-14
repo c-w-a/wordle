@@ -1,0 +1,26 @@
+
+WORDLE :
+
+CLASSES :
+
+ -- WordBank :
+ 	
+ 	 -- wordBank (hashmap)
+ 	 -- pickWord()
+ 
+ -- Wordle
+ 	
+ 	 -- board (Spot[])
+ 	 -- wrongLetters (char[])
+ 	 -- guess()
+ 	 -- check()
+	 -- print()
+ 
+ -- Spot
+ 	 
+ 	 -- status (none, almost, correct)
+ 	 -- letter (char)
+ 
+
+ 
+ 
